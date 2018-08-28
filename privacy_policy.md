@@ -1,3 +1,7 @@
+---
+title: Institute for the Future Research App Privacy Policy
+---
+
 # Institute for the Future Research App Privacy Policy
 
 Institute for the Future operates the Institute for the Future Research App.
